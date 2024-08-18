@@ -1,0 +1,785 @@
+Question 1: I want to set up new industry
+Before setting up of industry, NOC is required from PPCB
+
+Question 2: How can I apply NOC ?
+Step 1 : Register as new user on the Invest Punjab portal at following link :
+https://pbindustries.gov.in/webportal/usermanagement/investorregister
+Step 2 : After registration and getting user ID, login at following link and apply for NOC. 
+https://pbindustries.gov.in/webportal/login
+
+Question 3:List of Red/Orange/Green/ White category of industries.
+Red   Orange  Green  White
+Click on above buttons for detailed information.
+Red - https://ppcb.punjab.gov.in/sites/default/files/documents/RedcatInds.pdf
+Orange - https://ppcb.punjab.gov.in/sites/default/files/documents/OrangeCatInds.pdf
+Green - https://ppcb.punjab.gov.in/sites/default/files/documents/GreenCatInds.pdf
+White - https://ppcb.punjab.gov.in/sites/default/files/documents/whitecatinds.pdf
+
+Question 4:What are the list of documents required for NOC?
+Documents for NOC/ consent to establish at-
+https://ppcb.punjab.gov.in/sites/default/files/documents/CTE%20Documents.pdf
+Documents for consent to operate after obtaining NOC at-
+https://ppcb.punjab.gov.in/sites/default/files/documents/CTO%20Documents.pdf
+
+Question 5:For more details to whom I shall contact
+You can visit helpdesk during working hours. List of offices / helpdesk alongwith mobile numbers at below link 
+https://ppcb.punjab.gov.in/en/contact-us
+
+Question 6:Is there any approved person by the PPCB to get the help to apply for getting NOC ?
+https://ppcb.punjab.gov.in/sites/default/files/documents/Chartered%20Engineer1.10.21%20to%2030.9.23.pdf
+
+Question 7:Where can rice shellers / saila plant be established ?
+document_1 = https://ppcb.punjab.gov.in/sites/default/files/documents/Officeorder%2015.10.2013.pdf
+document_2 = https://ppcb.punjab.gov.in/sites/default/files/documents/RiceSheller5Aug2021.pdf
+
+Question 8:Where can Brick kilns be established ?
+Click to view Supported Document - https://ppcb.punjab.gov.in/sites/default/files/documents/Ann10.pdf
+
+Question 9: Where can Hot Mix Plant be established ?
+Click to view Supported Document - https://ppcb.punjab.gov.in/sites/default/files/documents/Ann11.pdf
+
+Question 10:Where can Stone crusher & screening-cum-washing plant be established ?
+Click to view Supported Document - https://ppcb.punjab.gov.in/sites/default/files/documents/notification17.3.1998.pdf
+
+Question 11:- Where can poultry farm be established ?
+Click to view Supported Document - https://ppcb.punjab.gov.in/sites/default/files/documents/oo1021_30.10.2017.pdf
+
+Question 12:- Where can Tyre pyrolysis plant be established ?
+Click to view Supported Document -http://ppcbpunjab.pragyaware.com/sites/default/files/notification/325544-dated-15.10.2014.pdf
+
+Question 13:Where can Cement plants & grinding units be established ?
+Click to view Supported Document - http://ppcbpunjab.pragyaware.com/sites/default/files/documents/Ann10.pdf
+
+Question 14:Where can Construction projects (residential colonies/commercial & other establishments) be established ?
+Click to view Document 1 - http://ppcbpunjab.pragyaware.com/sites/default/files/documents/Ann14.pdf
+Click to view Document 2 - http://ppcbpunjab.pragyaware.com/sites/default/files/documents/Ann15.pdf
+
+Question 15: Where can Hotels/marriage palaces be established ?
+Click to view Supported Document - http://ppcbpunjab.pragyaware.com/sites/default/files/documents/Ann72.pdf
+
+Question 16:Where can Jaggery units be established ?
+Click to view Supported Document - http://ppcbpunjab.pragyaware.com/sites/default/files/documents/Jaggery.pdf
+
+Question 17:Where can Petrol pumps, gas stations (retail outlets & fuel dispensing outlets) be established ?
+Click to view Supported Document - http://ppcbpunjab.pragyaware.com/sites/default/files/2021-10/guideline%20-%20new%20petrol%20pumps.pdf
+
+Question 18:Where can Dairy farms & gaushalas be established ?
+Click to view Supported Document - http://ppcbpunjab.pragyaware.com/sites/default/files/2021-10/guidelines%20of%20Dairy%20Farms%20%26%20Gaushalas.pdf
+
+Question 19:Where can Common Bio-Medical Waste Treatment Facilities (CBWTFs) be established ?
+Click to view Supported Document - http://ppcbpunjab.pragyaware.com/sites/default/files/documents/CBMWTF.pdf
+
+Question 20:Where can Gold Assaying & Hallmarking Centres be established ?
+Click to view Supported Document - https://cpcb.nic.in/openpdffile.php?id=TGF0ZXN0RmlsZS9fMTYwMzM1MzE0M19tZWRpYXBob3RvNTM2OC5wZGY=#:~:text=All%20the%20gold%20assaying%20and,2016%20from%20the%20concerned%20State
+
+Question 21:Where can End of Life Vehicles (ELVs) be established ?
+Click to view Supported Document - https://cpcb.nic.in/openpdffile.php?id=TGF0ZXN0RmlsZS8zNjhfMTY4MDI0MTY0MV9tZWRpYXBob3RvMjQ5MjgucGRm#:~:text=Premature%20ELVs%20refer%20to%20those,components%2C%20air%20bags%2C%20etc.
+
+Question 22: Where can industries other than above mentioned can be established ?
+Click to view Supported Document - https://drive.google.com/file/d/1ktUPBnophRpVoW3Z6jcLhLnv1JtZk38M/view
+
+Question 23: Consent to establish (NOC)/consent to operate fee ?
+Please Enter Capital Investment (In Rupees) - 
+1000000
+Consent Fee :
+Red Category: 1400 ₹
+Orange Category: 1100 ₹
+Green Category: 900 ₹
+
+Question 24:How can I deposit NOC / CTO fee ?
+Internet Banking/ Credit Card/ Debit Card/ NEFT/RTGS (other than PNB a/c only)
+
+PPCB A/c No. 2918000100261206
+IFSC Code: PUNB0291800
+
+
+Question 25:In how much time I will get NOC /CTO ?
+Click to view Supported Document - https://drive.google.com/file/d/1OkQLMYdSNFxdD1oqpPxIxVgzI-FFy0_Q/view
+
+Question 26:For how many years can I get CTE ?
+Maximum up to 5 years
+
+Question 27:For how many years can I get CTO ?
+Maximum validity:
+Red: 5 Years
+Orange: 10 Years
+Green: 15 Years
+
+Question 28:What is E-Waste?
+'e-waste' means electrical and electronic equipment, including solar photo-voltaic modules or panels or cells, whole or in part discarded as waste, as well as rejects from manufacturing, refurbishment and repair processes. The E-Waste Rule enacted on 1st April, 2023 & amended on 25th July, 2023.
+
+Question 29:Who is Manufacturer under E-Waste?
+‘manufacturer’ means a person or an entity or a company as defined in the Companies Act, 2013 (18 of 2013) or a factory as defined in the Factories Act, 1948 (63 of 1948) or Small and Medium Enterprises as defined in the Micro, Small and Medium Enterprises Development Act, 2006 (27 of 2006), which has facilities for manufacture of electrical and electronic equipment as specified in Schedule-I.
+
+Question 30:Who is Producer under E-Waste?
+‘producer’ means any person or entity who, -
+manufactures and offers to sell electrical and electronic equipment and their components or consumables or parts or spares under its own brand; or
+offers to sell under its own brand, assembled electrical and electronic equipment and their components or consumables or parts or spares produced by other manufacturers or suppliers; or
+offers to sell imported electrical and electronic equipment and their components or consumables or parts or spares; or
+who imports used electrical and electronic equipment; irrespective of the selling technique used such as dealer, retailer, e-retailer etc.
+
+Question 31:Who is Refurbishers under E-Waste?
+'refurbisher' means any person or entity repairing or assembling used electrical and electronic equipment as listed in Schedule-I for extending its working life over its originally intended life and for same use as originally intended, and selling the same in the market.
+
+Question 32:Who is Recycler under E-Waste?
+‘recycler’ means any person or entity who is engaged in recycling and reprocessing of waste electrical and electronic equipment or assemblies or their components or their parts for recovery of precious, semi-precious metals including rare earth elements and other useful recoverable materials to strengthen the secondary sourced materials and having facilities as elaborated in the guidelines of the Central Pollution Control Board made in this regard.
+
+Question 33:Who is Bulk Consumer under E-Waste?
+'bulk consumer' means any entity which has used at least one thousand units of electrical and electronic equipment listed in Schedule I, at any point of time in the particular Financial Year and includes e-retailer.
+
+Question 34:What is the siting guidelines for setting up of new E-Waste Recycling Facility/ Manufacturer/ Refurbishers?
+All the entity under E-Waste are covered under Red Category industries.
+The PPCB has not made any specific guidelines for setting up of new E-Waste Manufacturer/ Refurbisher/ Recycling only general guidelines are applicable for setting up of new E-Waste Manufacturer/ Refurbisher/ Recycler in the state of Punjab.
+
+Question 35:What is EPR?
+‘extended producer responsibility’ means responsibility of any producer of electrical or electronic equipment as given in Schedule-I for meeting recycling targets as per Schedule- III and Schedule-IV, only through registered recyclers of e-waste to ensure environmentally sound management of such waste.
+
+Question 36:EPR portal under E-Waste is applicable for?
+Registration –
+The entities shall register on the portal in any of the following category, namely: - (a) manufacturer; (b) producer; (c) refurbisher; or (d) recycler.
+In case any entity falls in more than one categories under sub-rule (1), then the entity shall register under those categories separately.
+No entity referred in sub-rule (1) shall carry out any business without registration.
+The entities registered under sub-rule (1) shall not deal with any unregistered manufacturer, producer, recycler and refurbisher.
+Where any registered entity furnishes false information or willfully conceals information for getting registration or return or report or information required to be provided or furnished under these rules or in case of any irregularity, the registration of such entity may be revoked by the Central Pollution Control Board for a period up to three-years after giving an opportunity to be heard and in addition, environmental compensation charges may also be levied as per rule 22 in such cases.
+The Central Pollution Control Board may charge such registration fee and annual maintenance charges from the entities seeking registration under these rules based on capacity of e-waste generated or recycled or handled by them as laid down by the Central Pollution Control Board with the approval of the Steering Committee.
+
+Question 37:What is the responsibility for Producers on EPR?
+The producer of electrical and electronic equipment listed in Schedule I shall be responsible for -
+(1) registration on the portal;
+(2) obtaining and implementing extended producer responsibility targets as per Schedule-III and Schedule-IV through the portal: Provided that the producer having extended producer responsibility plan under the provisions of the erstwhile E-Waste (Management) Rules, 2016 shall migrate under these rules as per the procedure laid down by the Central Pollution Control Board with approval of Steering Committee;
+(3) creating awareness through media, publications, advertisements, posters or by any other means of communication;
+(4) file annual and quarterly returns in the laid down form on the portal on or before the end of the month succeeding the quarter or year, as the case may be, to which the return relates.
+
+Question 38:What is the responsibility for Manufacturers on EPR?
+All manufacturers shall have to -
+(1) register on the portal.
+(2) collect e-waste generated during the manufacture of any electrical and electronic equipment and ensure its recycling or disposal.
+(3) file annual and quarterly returns in the laid down form on the portal on or before end of the month succeeding the quarter or year, as the case may be, to which the return relates.
+
+Question 39:What is the responsibility for Refurbishers on EPR?
+All refurbishers shall have to -
+(1) register on the portal.
+(2) collect e-waste generated during the process of refurbishing and hand over the waste to registered recycler and upload information on the portal.
+(3) ensure that the refurbished equipment shall be as per Compulsory Registration Scheme of the Ministry of Electronics and Information Technology and Standards of
+Bureau of Indian Standards framed for this purpose.
+(4) file annual and quarterly returns in the laid down form on the portal on or before the end of the month succeeding the quarter or year, as the case may be, to which the return relates.
+
+Question 40:What is the responsibility for Recyclers on EPR?
+All recycler shall have to -
+(1) register on the portal.
+(2) ensure that the facility and recycling processes are in accordance with the standards or guidelines laid down by the Central Pollution Control Board in this regard from time to time.
+(3) ensure that the fractions or material not recycled in its facility is sent to the respective registered recyclers.
+(4) ensure that residue generated during recycling process is disposed of in anauthorised treatment storage disposal facility.
+(5) maintain record of e-waste collected, dismantled, recycled and sent to registered recycler on the portal and make available all records for verification or audit as and when required.
+(6) file annual and quarterly returns in the laid down form on the portal on or before the end of the month succeeding the quarter or year, as the case may be, to which the return relates.
+(7) accept waste electrical and electronic equipment or components not listed in Schedule-I for recycling provided that they do not contain any radioactive material and same shall be uploaded on the portal.
+(8) create awareness through media, publications, advertisements, posters or by such other means of communication.
+(9) account for and upload information about any non-recyclable e-waste or any quantity which is not recycled and disposed of.
+(10) take help of dismantlers for recycling purposes.
+Provided that it shall be the responsibility of recycler to ensure proper material flow to and from those dismantlers and the dismantler shall give dismantled material to
+registered recycler only and maintain record of the same.
+ 
+Question 41:What is the document required for applying on EPR portal of CPCB of Recyclers/ Refurbishers/ Manufacturers?
+All information regarding requirement of documents for applying registration on EPR portal https://eprewastecpcb.in/ in SOP (Standard Operating procedures) available for Producers/ Recyclers/ Refurbishers & Manufacturer in different sections: -
+Section 1: Basic Information
+Section 2. Documents in support of basic information
+
+Question 42:What is the document required for applying of CTE/ CTO/ Authorization under HoWM for Recyclers/ Refurbishers/ Manufacturers?
+All information regarding requirement of documents for applying CTE/ CTO/ Authorization under HoWM for Recyclers/ Refurbishers/ Manufacturers available on given link: https://ppcb.punjab.gov.in/en/entrepreneurs-information-corner
+
+Question 43:Which entities shall register on the centralized portal developed by CPCB?
+The following entities shall register on the centralized portal developed by CPCB:
+I. Producer (P)
+II. Importer (I)
+III. Brand owner (BO)
+IV. Plastic Waste Processor engaged in(a) recycling, (b)waste to energy, (c)waste to oil, and (d) industrial composting.
+
+Question 44:Which PIBOs are required to register with SPCB/PCC?
+PIBOs which are operational in one or two states/UTs are required to register with the concerned with SPCB/PCC.
+
+Question 45:Which PIBOs are required to register with CPCB?
+PIBOs Which are operational in more than two states/UTs are required to register with CPCB.
+
+Question 46:Which entities are exempted to register on EPR Portal?
+The Micro & Small category of Brand owners are exempted from fulfilling EPR obligation. Remaining all entities are required to be registered on Centralized EPR portal in line with notified EPR Guidelines.
+
+Question 47:Which entities are exempted to register on EPR Portal?
+The Micro & Small category of Brand owners are exempted from fulfilling EPR obligation. Remaining all entities are required to be registered on Centralized EPR portal in line with notified EPR Guidelines.
+
+Question 48:Which are the plastic packaging categories covered under EPR?
+The following plastic packaging categories are covered under EPR:
+Category I: Rigid plastic packaging
+Category II: Flexible plastic packaging of single layer or multilayer (more than one layer with different types of plastic), plastic sheets or like and covers made of plastic sheet, carry bags, plastic sachet or pouches
+Category III: Multi layered plastic packaging (at least one layer of plastic and at least one layer of material other than plastic)
+Category IV: Plastic sheet or like used for packaging as well as carry bags made of compostable plastics
+
+Question 49:Which are the plastic packaging categories covered under EPR?
+The following plastic packaging categories are covered under EPR:
+Category I: Rigid plastic packaging
+Category II: Flexible plastic packaging of single layer or multilayer (more than one layer with different types of plastic), plastic sheets or like and covers made of plastic sheet, carry bags, plastic sachet or pouches
+Category III: Multi layered plastic packaging (at least one layer of plastic and at least one layer of material other than plastic)
+Category IV: Plastic sheet or like used for packaging as well as carry bags made of compostable plastics
+
+
+Question 50:How much application fees / annual processing/ renewal fees to be paid for Registration of PIBOs/ PWP?
+The details of fees to be paid by PIBO/ PWP is as given below:
+
+a. Application fees for Registration of PIBOs
+
+SI. No.	PW Generation Slab ( TPA )	Proposed Processing Fees (Rs.)
+1	<1000	10,000
+2	1000-10,000	20,000
+3	>10,000	50,000
+ 
+
+b. Application fees for Registration of PWP
+
+SI. No.	PW Generation Slab ( TPA )	Proposed Processing Fees (Rs.)
+1	<200	5,000
+2	200-2000	20,000
+3	>2000	50,000
+c. Renewal fees: Same as Registration fees
+d. Annual Processing Fees: 25% of Application fees (for PIBOs as well as PWP)
+
+Question 51:Our entity collects plastic waste; do we need to register as PWP?
+Only entities engaged in plastic waste processing (recycling, co-processing, waste to energy, waste to oil) have to be registered as PWP.
+
+Question 52:What if PIBO has in house recycling unit for their packaging plastic?
+PIBO will have to register as PIBO and as Recycler both with relevant documentation. Credits can only be issued to recyclers and transaction of credits to PIBO shall be documented.
+
+Question 53:What are the documents required for registering on EPR Portal as PIBOs?
+i) PAN, CIN, GST of entity
+ii) Aadhar of Authorized Person
+iii) Registration certificate from District Industries Center (DIC) of the State Government or Union territory, if available
+iv) Representative picture of packaged commodity covering different plastic categories under EPR
+v) Manufacturing / Process flow Chart
+vi) Consent copies under Water Act, 1974 and Air Act, 1981
+vii) The combined copies of GST invoices in all the States/UTs where the PIBO is operating
+viii) Upload pictures of the facility (with geo tagging)
+a. Raw material storage area
+b. Production process
+c. Products dispatch area
+d. Please enter video link of the plant
+ix) Share latest Electricity Bill
+x) Upload pictures of machine
+xi) Attach Covering Letter (Only PDF)
+xii) Upload signature (Only png / jpeg, jpg, gif)
+xiii) Any Other Information & Self declaration of enterprise based upon Audited Statement (Only PDF)
+
+Question 54:What are the documents required for registering on EPR Portal as PWP?
+i) PAN, CIN, GST of entity
+ii) Aadhar of Authorized Person
+iii) Registration certificate from District Industries Center (DIC) of the State Government or Union territory, if available
+iv) Manufacturing / Process flow Chart
+v) Upload pictures of the facility (with geo tagging)
+a. Raw material storage area
+b. Production process
+c. Products dispatch area
+d. Please enter video link of the plant
+vi) Share latest Electricity Bill
+vii) Upload pictures of machine
+viii) Attach Covering Letter (Only PDF)
+ix) Upload signature (Only png / jpeg, jpg, gif)
+x) Any Other Information & Self declaration of enterprise based upon Audited Statement (Only PDF)
+xi) Consent copies under Water Act, 1974 and Air Act, 1981
+xii) Occupational Safety and health Aspects
+xiii) Disaster Management Plan
+xiv) Fire and accident mitigate measures
+
+ 
+Question 55:What is hazardous waste?
+Hazardous waste is waste that has substantial or potential threats to public health or the environment.
+
+Hazardous waste is a type of dangerous goods. They usually have one or more of the following hazardous traits: ignitability, reactivity, corrosivity, toxicity. Listed hazardous wastes are materials specifically listed by regulatory authorities as hazardous wastes which are from non-specific sources, specific sources, or discarded chemical products.
+Hazardous wastes may be found in different physical states such as gaseous, liquids, or solids. A hazardous waste is a special type of waste because it cannot be disposed of by common means like other by-products of our everyday lives. Depending on the physical state of the waste, treatment and solidification processes might be required. The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal was signed by 199 countries, and went into effect in 1992. Plastic was added to the convention's list in 2019.
+Which Entity or industry required authorisation under HWM 2016 rules?
+These are applicable to the management of hazardous and other wastes as specified in the Schedules appended to these rules but shall not apply to:
+
+Waste-water and exhaust gases as covered under the provisions of the Water Act, 1974 and the Air Act, 1981 and the rules made there under and as amended.
+Wastes arising out of the operation from ships beyond five kilometres of the relevant baseline as covered under the provisions of the Merchant Shipping Act, 1958 and the rules made there under and as amended.
+Radio-active wastes as covered under the provisions of the Atomic Energy Act, 1962 and the rules made there under and as amended from time to time.
+Bio-medical wastes covered under the BMW Rules made under the Act and as amended.
+Wastes covered under the SWM Rules, made under the Act as amended.
+
+What are the responsibilities of occupier for the management of hazardous and other wastes?
+To follow steps, namely prevention, minimization, reuse, recycling, recovery, utilisation including co-processing & safe disposal.
+To send or sale the hazardous and other wastes generated in the establishment to an authorised actual user or to dispose it off in an authorised disposal facility.
+To transport the hazardous and other waste from the establishment to an authorised actual user or to an authorised disposal facility in accordance with the provisions of these rules.
+
+Question 56:How to get authorization of HWM rules, 2016?
+New Users: Registration through OCMMS Portal (https://pbocmms.nic.in)
+Already Registered Users: Login and apply for authorisation by using user ID & password.
+Detailed procedure is available in the OCMMS User Manual for Entrepreneurs. (https://pbocmms.nic.in/OCMMS-0.1/SPCB DOCUMENTS/HWM.pdf).
+
+Question 57:What are the documents required for obtaining authorization?
+CTE and CTO granted by the PPCB under Water Act, 1974 & Air Act, 1981
+Site Plan of the industry showing the location of hazardous waste storage area / room.
+Partnership Deed / Memorandum of Article of Association/Proprietorship certificate.
+Resolution of Board of Director/partners regarding authorized signatory.
+Manufacturing process details with flow chart.
+Agreement signed with Common Facility (TSDF), actual user (Re-processor / Co- processor) of hazardous waste (as the case may be)
+Annual return in Form -IV as prescribed under the Rules.
+Compliance of SOPs prescribed by CPCB (wherever applicable)
+In case of renewal of authorisation, a self-certified compliance report in respect of effluent, emission standards and the conditions specified in the authorisation for hazardous and other wastes provided that an application for renewal of authorisation may be made 3 months before the expiry of such authorisation.
+Note: No processing fee is to be deposited with the authorisation application.
+
+Question 58:What is the validity period for the authorization?
+5 years.
+
+Question 59:Duration of storage of hazardous and other wastes?
+Occupiers of facilities may store the hazardous and other wastes for a period not exceeding ninety days and shall maintain a record of sale, transfer, storage, recycling, recovery, pre-processing, co processing and utilisation of such wastes and make these records available for inspection.
+
+Question 60:What are the procedures for import of hazardous and other wastes?
+Hazardous waste
+
+Actual User intending to import or transit for trans boundary movement of hazardous and other wastes specified in Part A and Part B of Schedule III shall apply in Form 5 to the MoEF&CC for the proposed import together
+Documents listed by MoEF&CC
+Prior informed consent of the exporting country in respect of Part A of Schedule III waste
+Send a copy of the application, simultaneously, to the concerned SPCB for information.
+Acknowledgement from SPCB shall be submitted to the MoEF&CC along with the application.
+Other Wastes
+For the import of other wastes listed in Part D of Schedule III, the importer shall not require the permission of the MoEF&CC.
+
+Importer to furnish the required information as per Form 6 to the Customs authorities, accompanied with the following documents in addition to those listed in Schedule VIII, wherever applicable:
+
+Import license from Directorate General of Foreign Trade, if applicable;
+Valid consents under the Water Act, 1974 & the Air Act,1981.
+Authorisation under the HoW (M&TM) Rules, 2016 and under the E-Waste Rules,2016
+Importer who is a trader, importing waste on behalf of actual users, shall obtain one time
+Authorisation (OTA) from the PPCB online at https://pbocmms.nic.in.
+Procedure of obtaining one-time authorisation (OTA) for Traders of other wastes (on behalf of actual user)
+New Users: Registration through OCMMS Portal (https://pbocmms.nic.in)
+Already Registered Users: Login and apply for authorisation (OTA) by using user ID & password.
+Detailed procedure is available in the OCMMS User Manual for Entrepreneurs.
+(https://pbocmms.nic.in/OCMMS-0.1/SPCB DOCUMENTS/HWM.pdf).
+Documents to be submitted with online OTA application
+Copy of TIN/VAT/GST Number
+Copy of Import/Export License issued from Directorate General of Foreign Trade.
+Site Plan/Location Plan of the Godown
+Land documents of storage godown such as Registration deed/Jamabandi/ Rent Deed/Lease Deed indicating details of the property
+Certificate/ NOC from the Concerned Authority regarding suitability of location for godown to be used for the storage of scrap/other waste, if not falls in industrial zones or the areas admissible as per Master Plan (From Municipal Authorities in case godown is within M.C. limit and District Town Planner in case godown is outside M.C limit)
+Online fee deposit amounting to 5000/-
+Upon successful issuance of OTA, the trader shall submit the request for permission to release the consignment at least one month in advance, along with a fee of Rs. 30/- per MT of other waste to be imported.
+Trader shall submit the quarterly report of the actual material imported and fee deposited for each quarter, by the 7th of proceeding month, to Environmental Engineer of the concerned RO. All the traders are required to register and obtained OTA with the Board through online system at OCMMS Portal (https://pbocmms.nic.in).
+In case, One Time Authorisation (OTA)/permission to release the consignment is not issued within 21 days it can be auto generated from the system itself.
+
+Question 61:What are the procedures for Export of hazardous and other wastes?
+Any occupier intending to export waste specified in Part A of Schedule III, Part B of Schedule III and Schedule VI, shall make an application in Form 5 along with insurance cover to the MoEF&CC for the proposed transboundary movement of the hazardous and other wastes together with the prior informed consent in writing from the importing country in respect of wastes specified in Part A of Schedule III and Schedule VI.
+
+Question 62:Which are the authorised TSDF operator in the state of the Punjab?
+TSDF Nimbua , Derabassi , Mohali.
+
+Question 63:What is “NHWTS” Portal?
+National Hazardous Waste Tracking System is a GIS Based Hazardous Waste Management and Tracking System integrated with Online Consent Management and Monitoring System in the country developed by Central Pollution Control Board (CPCB), which shall be used to track the generation, transportation, storage, recycling, utilization and disposal of hazardous wastes across the country.
+
+Question 64:What is NHWTS Application?
+The NHWTS has modules for registration, daily records, e-manifest, geo- tracking of hazardous waste movement, filing of annual returns and dashboard. This application will function as single application for tracking the movement of hazardous wastes and resolves the issues pertaining to interstate movement of hazardous wastes.
+
+Question 65:Who can register at NHWTS?
+Registration of Entities involved in the generation, transportation, storage, recycling, utilization and disposal of Hazardous Waste on National Hazardous Waste Tracking System (NHWTS) portal is compulsory. Registration can be done at http://geo.nic.in/nhwts/.
+
+Question 66:What areas do the Solid Waste Management Rules, 2016 cover?
+Solid Waste Management rules apply to: -
+
+Every urban local body (Megacity to Panchayat level),
+Outgrowths in urban agglomerations,
+Census towns stipulated by the Registrar General and Census Commissioner of India, notified areas,
+Notified industrial townships,
+Areas under the control of Indian Railways,
+Airports/airbases, Ports and harbours,
+Defense establishments,
+Special economic zones,
+State and Central government organisations,
+Places of pilgrims,
+Religious and historical importance may be notified by the respective State government from time to time and every domestic, institutional, commercial, and any other non-residential solid waste generator situated in the areas.
+What are the key principles emphasized by these rules?
+The rules highlight the importance of waste segregation at the source, place responsibility on manufacturers for packaging and sanitary waste disposal, and propose user fees for waste collection, processing, and disposal.
+
+Question 67:How does the government monitor the implementation of these rules?
+A Central Monitoring Committee, chaired by the Secretary of the Ministry of Environment, Forest, and Climate Change (MoEF&CC), oversees the general implementation of these Rules.
+
+Question 68:What are the features of waste segregation under the rules?
+Waste producers are required to segregate their garbage into three categories: biodegradables, dry waste (plastic, paper, metal, wood), and domestic hazardous waste.
+
+Question 69:Who is responsible for managing Waste?
+The Local Authorities are responsible for the development of infrastructure for collection, storage, segregation, transportation, processing and disposal of Municipal Solid Waste.
+
+Question 70:How are sanitary napkins addressed in the regulations?
+Manufacturers must provide a disposal bag or wrapper for sanitary waste with their products, ensuring proper handling of items like diapers and sanitary pads.
+
+Question 71:What responsibility do brand owners have for non-biodegradable packaging waste?
+Brand owners using non-biodegradable packaging must establish a system to collect back the resulting packaging waste.
+
+Are there penalties for improper waste disposal?
+Yes, the rules introduce user fees for waste generators and spot fines for those found littering or violating waste management rules.
+
+Question 72:What guidelines are provided for waste processing and treatment?
+Biodegradable waste should be processed on-site through composting or bio- methanation, and the remaining waste should be handed over to waste collectors as directed by local authorities.
+
+Question 73:What is the procedure for applying authorization under Solid Waste Management Rules, 2016?
+In order to obtain authorization under the rules, every village panchayat and local authority of census towns should file an application under Form 1 for setting up waste processing, treatment, or disposal facility. If waste generation is >5TPD. The following documents are required:-
+
+Question 74:Project report on solid waste management
+Documents relating to land ownership for solid waste processing site
+Municipal Solid Waste Annual Report of the preceding year
+Authorization or work order issued to the operator of the solid waste processing facility (in case the site is being operated by the private operator).
+Technical details of waste to energy plant or recycling plant
+Permit from District level site selection committee.
+Detailed Standard operating procedure for applying authorization under SWM Rules, 2016 is attached (Annexure-1)
+Is there any fee to apply authorization under Solid Waste Management Rules, 2016?
+No, there is no fee for this. This is free of cost.
+
+Question 75:What are Criteria for Setting up Treatment Facility under Solid Waste Management Rules 2016?
+The department related to land allocation must give appropriate land that is required for construction of the Solid Waste Management (processing and treatment) plants.
+The facility operator is required to obtain appropriate authorization and is responsible for the environmentally sustainable operations and procedure of solid waste in the facilities by SPCB/PCC (the State Pollution Control Board or Pollution Control Committee).
+
+What are the Duties of Waste Generators?
+Every waste generator shall,-
+segregate and store the waste generated by them in three separate streams namely bio-degradable, non biodegradable and domestic hazardous wastes in suitable bins and handover segregated wastes to authorised waste pickers or waste collectors.
+wrap securely the used sanitary waste like diapers, sanitary pads etc, in the pouches provided by the manufacturers or brand owners of these products and shall place the same in the bin meant for dry waste or non- bio- degradable waste;
+store separately construction and demolition waste, as and when generated, in his own premises and shall dispose off as per the Construction and Demolition Waste Management Rules, 2016; and
+Store horticulture waste and garden waste generated from his premises separately in his own premises and dispose of as per the directions of the local body from time to time.
+No waste generator shall throw, burn or burry the solid waste generated by him, on streets, open public spaces outside his premises or in the drain or water bodies.
+All waste generators shall pay such user fee for solid waste management, as specified in the bye-laws of the local bodies.
+No person shall organise an event or gathering of more than one hundred persons at any unlicensed place without intimating the local body.
+Every street vendor shall keep suitable containers for storage of waste generated during the course of his activity such as food waste, disposable plates, cups, cans, wrappers, coconut shells, leftover food, vegetables, fruits, etc., and shall deposit such waste at waste storage depot or container or vehicle.
+
+What are Bulk waste generators?
+Bulk waste generators means and includes building occupied by the Central Government Departments or undertakings, State Government Departments or undertakings, local bodies, public sector undertakings or private companies, hospitals, nursing homes, schools, colleges, universities, other educational institutes, hostels, commercial establishments, markets, places of worship, stadia and sports complexes having an average waste generation rate exceeding 100kg per day.
+
+Question 76:What are duties of Bulk waste generators?
+All resident welfare and market associations shall, within one year from the date of notification of these rules and in partnership with the local body ensure segregation of waste at source by the generators as prescribed in these rules, facilitate collection of segregated waste in separate streams, handover recyclable material to either the authorized waste pickers or the authorized recyclers. The bio-degradable waste shall be processed, treated and disposed off through composting or bio-methanation within the premises as far as possible. The residual waste shall be given to the waste collectors or agency as directed by the local body.
+All gated communities and institutions with more than 5,000 sqm area shall, within one year from the date of notification of these rules and in partnership with the local body, ensure segregation of waste at source by the generators as prescribed in these rules, facilitate collection of segregated waste in separate streams, handover recyclable material to either the authorized waste pickers or the authorized recyclers. The bio-degradable waste shall be processed, treated and disposed off through composting or bio-methanation within the premises as far as possible. The residual waste shall be given to the waste collectors or agency as directed by the local body.
+All hotels and restaurants shall, within one year from the date of notification of these rules and in partnership with the local body ensure segregation of waste at source as prescribed in these rules, facilitate collection of segregated waste in separate streams, handover recyclable material to either the authorized waste pickers or the authorized recyclers. The bio-degradable waste shall be processed, treated and disposed off through composting or bio-methanation within the premises as far as possible. The residual waste shall be given to the waste collectors or agency as directed by the local body.
+
+Question 77:What are the criteria for Waste to Energy process?
+Non recyclable waste having calorific value of 1500 K/cal/kg or more shall not be disposed of on landfills and shall only be utilised for generating energy either or through refuse derived fuel or by giving away as feed stock for preparing refuse derived fuel.
+High calorific wastes shall be used for co-processing in cement or thermal power plants.
+The local body or an operator of facility or an agency designated by them proposing to set up waste to energy plant of more than five tons per day processing capacity shall submit an application in Form-I to the State Pollution Control Board for authorization.
+
+Question 78:What is Battery?
+Battery means new or refurbished cell and/or Battery and/or their component, including accumulator, which is any source of electrical energy generated by direct conversion of chemical energy and includes disposable primary and/or secondary battery.
+
+Question 79:What does ‘Waste Battery’ includes?
+Waste Battery includes:
+
+Used and/or End of Life Battery and/or its components or spares or parts or consumables which may or may not be hazardous in nature.
+Pre-consumer Off-Spec Battery and its components or spares or parts or consumables.
+Battery whose date for appropriate use has expired.
+Batteries which have been discarded by the user.
+
+What is the meaning of EPR?
+EPR stands for ‘Extended Producer Responsibility’ which means responsibility of any Producer of Battery for Environmentally sound management of Waste Battery.
+
+Question 80:What are EPR targets for Producers/Manufacturers?
+EPR targets is the quantity of battery placed in the market by the Producer/Manufacturer. Details are given in Schedule II of the Battery Waste Management Rules, 2022.
+
+Question 81:Who all comes under the definition of ‘Producer’?
+Producer means an entity who engages in:
+
+manufacture and sale of Battery including refurbished Battery, including in equipment, under its own brand
+sale of Battery including refurbished Battery, including in equipment, under its own brand produced by other manufacturers or suppliers
+import of Battery as well as equipment containing battery.
+How can producers/manufacturers of Batteries get registration?
+As per Rule 4 (4), the person or an entity involved in manufacturing of Battery shall have to register through the online centralised portal as Producer in Form 1(A). The certificate of registration shall be issued in Form 1(B) from CPCB.
+
+Question 82:Does importer of battery needs to obtain registration from CPCB?
+As per rule 3(1) (u), Importer of Battery as well as equipment containing Battery will be called 'Producer'. The Importer has to obtain registration from CPCB to carry out import activities related to battery.
+
+Question 83:Which entities shall register on the online portal developed by CPCB?
+The following entities shall register on the online portal developed by CPCB:
+
+Producer (Importers comes under the definition of Producer as per Rules)
+Manufacturers of Battery
+Recyclers and Refurbishers
+What are the documents required for KYC for registration of Producers/ Manufactures?
+PDF copy of Company’s PAN, CIN & GST of the Producer/Manufacturers.
+
+Question 84:Is the registration provided by CPCB to the importers of lead acid batteries under Batteries (Management and Handling) Rules, 2001 still valid?
+No, importers have to obtain fresh registration from CPCB to carry out any import activities related to battery as well as equipment containing battery.
+
+Question 85:Which type of batteries are covered under the Battery Waste Management Rules, 2022?
+All types of batteries regardless of chemistry, shape, volume, weight, material composition and use, are covered under the Rules.
+
+Question 86:In case of Proprietorship/Partnership, under company details, what should be provided in PAN?
+PAN of the authorized person is to be provided.
+
+Question 87:When will the Importer be liable for EPR obligations?
+Importers shall have EPR Obligations under the following conditions:
+
+Importers who sale the imported battery in the market under their own brand name.
+Importers supplying the imported battery to other manufactures/dealers and themanufacturers/dealers is selling those batteries in the market under the brand name provided by the importer.
+Importers supplying the imported battery directly to bulk consumers.
+Importers selling the imported battery in the market under the name of the brand imported.
+When will the Importer NOT liable for EPR obligations?
+Importers shall not have EPR Obligations under the following condition:
+Importers supplying the imported battery to other manufactures/dealers and the manufacturers/dealers is selling those batteries in the market under their own brand name.
+
+Question 88:Do the Dealers of Battery have to register with CPCB/SPCB?
+If the dealer purchases the battery from a manufacturer or a producer and sales the battery under its own brand name, in this case, the dealer will be called a Producer and will have to register with The Dealer will also have EPR obligations as per rules.
+If the dealer purchases or supplies the battery from manufacturer/s or a producer and sale them under the brand name provided by the manufacturer or producer, then the Dealer is not required to obtain CPCB or  SPCB.
+
+Do the exporters of battery needs to register with CPCB and have any EPR obligations?
+If the company/brand is not placing the Battery in the Indian market, it will not have EPR obligations.
+
+Question 89:Do manufacturers of products using battery as a component (e.g.manufacturers of UPS, inverters, medical equipment, emergency lights, Instruments, Signage, Printers, etc.) fall under definition of Producer under Para 3 (u) (i) & (ii) page 29 of the BWM Rules, 2022?
+If a company/manufacturer is using a battery as a component in equipment’s, then the manufacture will have EPR obligation and have to register as producer if it is making batteries under its own brand name.
+If a company/manufacturer is using battery provided by other battery manufacturer/producer, then it will not have any EPR obligations.
+Where can I find the EPR Registration Certificate?
+There is no separate registration certificate for EPR. Registration is only granted under Form 1(B) of the Rules.
+
+We at XYZ industry/brand/company are engaged in manufacturer of Battery and supply of battery to different manufacturers in India. We do not supply any battery to direct consumer or through dealer. Do we need to obtain registration from CPCB?
+As per rules 4(4), Manufacturer of the battery has to register as producer by CPCB.
+
+Question 90:Do the manufacturers of Battery have any EPR obligations?
+Manufacturers shall have EPR Obligations under following conditions:
+Manufacturers who sale the battery in the market under their own brand name.
+Manufacturers supplying battery to other manufacturers/dealers and the other manufacturers/dealers is selling those batteries in the market under the brand name provided by the original manufacturers.
+Manufacturers supplying battery directly to bulk consumers.
+Manufacturers shall have not EPR Obligations under following conditions:
+Manufacturers supplying battery to other manufacturers/dealers and the manufacturers/dealers is selling those batteries in the market under their own brand name.
+As per the new Batteries Waste Management Rules 2022, whether battery user or consumer isrequired to submit annual or half yearly return?
+Consumers/users of battery are not required to submit annual or half yearly returns. However, if any brand/company/industry/User is involved in import of any battery for in- house use, then it is mandatory to obtain registration from CPCB and they will be liable for EPR obligations. In this case, they will have to submit annual returns by 30th June.
+
+Question 91:Where can I find the list of registered recyclers and refurbisher?
+The list of registered Recyclers and Refurbishers can be obtained through SPCBs/PCCs.
+
+We at XYZ company are involved in Refurbishment of battery and after refurbishing the battery we are selling the battery under our own brand name. Will we have EPR obligations?
+If a company, be it a refurbishment unit is involved in selling of battery under its own brand name, then as per rules they will be called 'Producer'. They will have to register with CPCB and will have EPR obligations.
+
+Question 92:What documents are to be submitted by the Producer while applying for grant of registration?
+Refer SoP given on CPCB website.
+
+In form 1 (A), under type(s) of Battery placed in the market with brand name(s), what brand name(s) to be written in case of imported Battery?
+Importer shall mention their own brand name(s) and not the brand name(s) of the battery imported.
+
+Question 93:What is noise?
+Noise is unwanted sound. Noise can be produced by many sources – public address systems, horns, construction equipment’s, appliances, apparatus, vocal or instrumental music, industrial activities, generator sets, aircraft, bursting of sound emitting fire crackers & other mechanical devices etc.
+
+Question 94:What is Noise Pollution?
+The unpleasant and undesirable sound which leads to discomfort in human beings is called Noise Pollution.
+
+Question 95:What are the adverse effects of noise pollution in humans?
+The adverse effects of noise pollution in humans are: High blood pressure, hearing loss, may affect the circadian rhythm (sleep cycles), Impair cognitive functions Irritability, high stress etc.
+
+Question 96:What are the main causes of noise pollution?
+Some of the major causes are public address systems, horns, construction equipment’s, appliances, apparatus, vocal or instrumental music, industrial activities, generator sets, aircraft, bursting of sound emitting fire crackers & other mechanical devices etc.
+
+Question 97:What are the preventive measures to reduce the noise pollution?
+The following are some preventive measures to reduce the noise pollution:
+
+Honking near public places like teaching institutes, hospitals, should be banned.
+The installation of Noise limiters on potential noise emitting devices.
+The commercial and industrial buildings should have adequate soundproof systems.
+Dense tree cover is useful in noise pollution prevention.
+
+Question 98:In which Unit sound is measured?
+Decibels (dB).
+
+Question 99:Which types of pollution causes hearing loss in organisms?
+Noise pollution.
+
+Question 100:Which rules regulate noise pollution in India?
+The Noise Pollution (Regulation and Control) Rules, 2000.
+
+Question 101:What is Day timing as per Noise Pollution (Regulation and Control) Rules, 2000?
+Day time shall mean from 6.00 a.m. to 10.00 p.m.
+
+Question 102:What is Night timing as per Noise Pollution (Regulation and Control) Rules, 2000?
+Night time shall mean from 10.00 p.m. to 6.00 a.m.
+
+Question 103:What are day & night time ambient air noise standards prescribed for residential area in India?
+The day time ambient air noise standards prescribed for residential area in India are 55 dB and night ambient air standards prescribed for residential area in India are 45dB.
+
+Question 104:What are the restrictions on use of horns, sound emitting construction equipment’s and bursting of fire crackers.
+No horn shall be used in silence zones or during night time in residential areas except during a public emergency.
+Sound emitting fire crackers shall not be burst in silence zone or during night time.
+Sound emitting construction equipment’s shall not be used or operated during night time in residential areas and silence zones.
+
+Question 105:What is Stubble Burning?
+Crop agriculture residue burning is a common feature in NCT Delhi and even in the surrounding states like Uttar Pradesh, Punjab, Rajasthan and Haryana. These states, particularly, Uttar Pradesh, Rajasthan, Haryana and Punjab and areas of Delhi have two or more growing seasons-one from May to September and another from November to April. The farmers often set fire to field to clear the residue of the crop/plants. The standing straw is burnt to clear the fields. This practice is even prevalent in other parts of the country.
+
+Why do farmers burn stubble in Punjab?
+The rice and wheat system (RWS) is one of the widely practiced cropping systems in northern India. About 90-95 percent of the rice area is used under intensive rice wheat system (RWS) in Punjab. Widespread adoption of green revolution technologies and high yielding variety of seeds increased both, crop as well as crop residue and combine harvesting is one such input, particularly in the RWS. It is notable that in the RWS, a short period of time is available between rice harvesting and wheat plantation and any delay in planting adversely affects the wheat crop. This coupled with and combine harvesting is one such input, particularly in the RWS.
+
+It is notable that in the RWS, a short period of time is available between rice harvesting and wheat plantation and any delay in planting adversely affects the wheat crop. This coupled with combine harvesting compels the farmers to burn the residue to get rid of stubble left out after the harvest. Farmers burn stubble mainly due to economic reasons and time constraints. After harvesting rice or wheat, there is a short window to prepare fields for the next crop. Burning stubble is often seen as a quick and cost-effective method compared to other labor-intensive alternatives.
+
+What is the impact of stubble burning on environment?
+The smoke from agriculture residue burning can harm the human health, aggravating heart and lung diseases. Crop residue burning are considered a major source of carbon dioxide (CO2), carbon monoxide (CO), methane (CH4), volatile organic compounds (VOC), nitrogen oxides and halogen compounds. The greenhouse gases CO2 and CH4 directly influence the global warming, while changes in oxidizing capacity to CO variability could perturb the growth rates of greenhouse gases. Burning of straw emits emission of trace gases like CO2, CH4, CO, N2O, NOX, SO2 and large amount of particulates which cause adverse impacts on human health.
+
+How does stubble burning affect air quality?
+Stubble burning emits toxic pollutants in the atmosphere containing harmful gases like Carbon Monoxide (CO), methane (CH4), carcinogenic polycyclic aromatic hydrocarbons, volatile organic compounds (VOC). These pollutants disperse in the surroundings and eventually affect air quality and people's health by forming a thick blanket of smog. Soil becomes less fertile and its nutrients are destroyed when the husk is burned on the ground. Stubble burning generates heat that penetrates into the soil, causing an increase in erosion, loss of useful microbes and moisture.
+
+What are the health risks associated with stubble burning?
+Stubble burning releases harmful particulate matter and gases into the air, leading to increased levels of pollution. This can have severe consequences for public health, particularly causing respiratory problems and exacerbating existing conditions like asthma.
+
+How many fire incidents were recorded in Punjab during paddy harvesting season 2023?
+36663 no. of fire incidents were recorded in Punjab during paddy harvesting season 2023.
+
+What is the percentage reduction in stubble burning incidents in Punjab in Paddy Harvesting season 2023 w.r.t. 2022?
+There is 26.55% reduction in stubble burning incidents in Paddy Harvesting season 2023 w.r.t 2022.
+
+What is the percentage reduction in stubble burning incidents in Punjab in Paddy Harvesting season 2023 w.r.t. 2021?
+There is 48.85% reduction in stubble burning incidents in Paddy Harvesting season 2023 w.r.t 2021.
+
+How fine is imposed on the defaulting farmer?
+The Govt. is insuring the compliance of the order passed by the Hon’ble NGT on 10.12.2015 in OA no.118 of 2013 regarding imposition of environmental compensation on the violators as under:
+
+2500 per incidence on the small land holders having an area less than 2 acres.
+5000/- per incidence on the land holders having land area more than 2 acres but Less than 5 acres.
+15000/- per incidence on the land holders having land area more than 5 acres.
+
+What is ex-situ management of crop residue?
+Crop residue ex-situ management refers to the removal of crop residue from the field for use as a source of fuel, fodder, or compost. Ex-situ management methods can help reduce air pollution caused by burning crop residues and provide a natural source of nutrients for the soil. Here are some commonly used ex-situ crop residue management methods:
+
+Biomass power generation: Crop residues can be used as a source of fuel for biomass power generation. This method involves burning crop residues to produce electricity or heat.
+Animal feed: Crop residues can be used as a source of animal feed, particularly for livestock such as cattle, sheep, and goats. Crop residues can be baled and stored for use as animal feed during the dry season when forage is scarce.
+Composting: Crop residues can be composted to produce a nutrient-rich soil amendment. This method involves collecting the crop residues and mixing them with other organic materials such as manure, leaves, and grass clippings. The compost can then be used to improve soil fertility and structure.
+Biochar production: Biochar is a type of charcoal that is produced by heating crop residues in the absence of Biochar can be used as a soil amendment to improve soil fertility, water retention, and crop productivity.
+Industrial uses: Crop residues can be used in various industrial processes, such as the production of paper, textiles, and building materials.
+
+How ex-situ management is done through pelletization plant?
+A pelletization plant, also known as a pelletizing plant or pellet plant, is a facility that processes raw materials (such as biomass, or other materials) into pellets. Pellets are small spherical or cylindrical shapes typically used as feedstock in various industries in boilers, brick kiln etc.
+
+What is in-situ management of crop residue?
+In-situ management of crop residue refers to the management of paddy straw within the farm fields. This process can be broadly categorised under incorporation of paddy straw and retention of paddy straw on the surface of farm field as mulch.
+
+Incorporation: In this method size of paddy straw is reduced by mulcher/straw choppers and it is mixed with the soil using relevant farm machinery. This involves tillage and subsequent land preparation operations to obtain a workable seed bed. With this method paddy straw is decomposed and releases its nutrients in the soil thus making it more fertile. It also enriches soil's organic matter and  enhances  its  water  holding    Long  term experiments have shown an increase in crop yield at every subsequent year.
+Mulching: In this technique paddy crop is harvested by combine equipped with Super SMS and remaining straw is evenly distributed in the farm field. Sowing of wheat is done without any tillage operation and seed is placed beneath the layer of paddy straw in the farm field. This method is the most cost effective and bears equivalent yield statistics with other conventional methods. Apart from this mulching restricts the weed infestation and retains the moisture in root zone. It has also been observed that mulching protects the crop from lodging in windy conditions and also prevented occurrence of shrivelled grains in a condition of sudden rise in temperatures in months nearing harvesting of the crop.
+
+What are the initiatives taken by the State to control practice of Paddy residue burning by in-situ management?
+The State has taken many initiatives to control practice of paddy residue burning by in-situ management during the last years with details as under:
+
+Sustaining/ diversifying area from paddy to other The paddy-wheat rotation has proved to be the most economical and mechanized rotation in the State than all other crop rotations such 3 as cotton-wheat, maize-wheat have many issues and do not compete with the paddy-wheat rotation.
+Implementation of “Central Sector Scheme for Promotion of Agricultural Mechanization for Insitu Management of Crop Residue”. The scheme is being implemented in the state since 2018- Under the scheme, the subsidy is being provided @ 50% to individual farmers and @ 80% to registered farmer groups, panchayats, cooperative societies and farmer producer organizations (FPOs) for procurement of machinery for in-situ/ex- situ management of paddy straw 1,38,022 CRM Machines have been provided to the farmers and 24,736 custom hiring centers have been established/ strengthened.
+
+What are the initiatives taken by the State to control practice of Paddy residue burning by ex-situ management?
+The State has taken many initiatives to control practice of paddy residue burning by ex-situ management during the last years with details as under:
+
+The paddy straw is being promoted to be used in Biomass Power Plants, CBG plants, Industrial Boilers, Pelletization The Punjab Government is actively promoting the ex-situ utilization of paddy straw.
+The State has also been able to collect and store paddy residue in Collection Centers by Biomass Industries; cattle ponds; Gaushalas and other common lands available in the villages for use as cattle feed for the landless farmers within the State as well as outside the State. Punjab Govt. is seized of the menace of stubble burning and taking various preventive steps for the last many years through prohibitory orders as well as generating awareness among farmers regarding ill effects of stubble burning on soil and environment. The State of Punjab has taken and is taking all the possible steps for the prohibition and control of stubble burning. The State Government is further strengthening the use of in-situ and ex-situ management options and IEC activities amongst the farming community for making behavioural change so as to totally eradicate the stubble burning incidents in the year 2024.
+
+What are the prohibtory orders on burning of crop residue?
+Following are the prohibitory order on being of crop residue:-
+
+1. Orders dated 22.10.2013 by Department of Science, Technology and Environment, Govt. of Punjab.
+
+To curb the menace of stubble burning during post-harvesting season in the State, the Government of Punjab, Department of Science, Technology and Environment in exercise of the powers conferred under section 19(5) of the Air (Prevention & Control of Pollution) Act, 1981 in consultation with the Punjab Pollution Control Board vide notification no. 946 dated 22/10/2013 has prohibited the burning of agriculture residue in the State of Punjab. Any violation of this notification is punishable under section 39 of the Air (Prevention & Control of Pollution) Act, 1981 by filing a criminal complaint in the court of Judicial Magistrate first class.
+
+2.  Order dated 10.12.2015 passed by National Green Tribunal (NGT)
+
+NGT has vide order dated 10.12.2015 in OA no.118 of 2013 prohibited the burning of paddy straw and passed detailed directions to meet the challenges arising from the burning of paddy straw. It also provides imposing environmental compensation against defaulter.
+
+Any person or body that is found offending this direction would be liable to pay environmental compensation as follows:
+
+Small land holders having an area less than 2 Acres shall pay Environmental Compensation of Rs. 2500/- per incidence.
+Land holders having land area more than 2 Acres but Less than  5 Acres shall pay Environmental Compensation of Rs. 5000/- per incidence.
+Land holders having land area more than 5 Acres shall pay Environmental Compensation of Rs. 15000/- per incidence”
+Further, violation of ban order passed by NGT is also punishable under the relevant section of NGT Act, 2010.
+
+3.  Order dated 7.2.2018 passed by Punjab Pollution Control Board regarding mandatory Super SMS with Combine Harvester
+
+In order to encourage in-situ management of paddy straw, Punjab Pollution Control Board has passed order dated 7.2.2018 under section 31-A of Air (Prevention and Control of Pollution) Act,1981 making it mandatory for all the Combines to have Super SMS system fixed.
+
+Any violation of this direction is punishable under section 37 of the Air (Prevention & Control of Pollution) Act, 1981 by filing a criminal complaint in the court of Judicial Magistrate first class.
+
+4.  Order No. Admn. (Gen)/2020/545 dated 25.08.20 by Punjab Pollution Control Board
+
+In compliance to the order dated 15.11.2018 passed by the Hon’ble National Green Tribunal in OA no.666 or 2018 titled as Ganga Lalwani vs. Union of India and others, the order dated 25.09.2020 passed by the Board regarding imposition of environmental compensation on harvester combines found operating without Super Straw Management System and in exercise of the powers vested in it under section 43 of the Air (Prevention and Control of Pollution) Act 1981 the Punjab Pollution Control Board has authorised and empowered the Sub-Divisional Magistrates, Circle Revenue Officers (Tehsildars and Naib-Tehsildars), Chief Agriculture Officers (in-charge of the Districts), Agricultural Development Officers (in-charge of the Blocks) and Secretary, Regional Transport Authorities to act against the persons found indulging in the burning paddy stubble and/ or operating Harvester Combines without Super SMS in the State of Punjab as under:-
+
+To Impose and collect Environmental Compensation in accordance with the mandate of the order dated 12.2015 of the Hon’ble NGT in OA No. 118 of 2013 as under:
+Small land holders having an area less than 2 Acres: Rs. 2500/- per incidence.
+Land holders having land area more than 2 Acres but Less than 5 Acres: Rs. 5000/- per incidence
+Land holders having land area more than 5 Acres: Rs. 15000/- per incidence
+To impose Environmental Compensation for violation of the directions dated 07.02.2018 read with order dated 25.09.2020 passed by the Punjab Pollution Control Board upon the owners of Harvester Combines found operating without functional Super Straw Management System as under:
+50000/- on first violation
+75000/- on second violation
+100000/- on third violation and subsequent violation each
+To file prosecution u/s 39 and section 37 of the Air (Prevention and Control of Pollution) Act, 1981 before the competent court of law for violation of the notification dated 22.10.2013 issued by the Government of Punjab, Department of Science, Technology & Environment whereby stubble burning has been prohibited, and directions dated 07.02.2018 passed by the Punjab Pollution Control Board
+Whereby the attachment and use of Super Straw Management System with the Harvester Combines was made mandatory in the State of Punjab respectively. The amount of Environmental Compensation so collected should be deposited with the Member Secretary Punjab Pollution Control Board. 
+
+5. Prohibitory orders under section 144 CrPC by District Magistrates
+
+District Magistrates in the State pass orders under section 144 CrPC every season to prohibit burning of paddy straw. Any violation of the order passed u/s 144 of CrPC is punishable u/s 188 of CrPC.
+
+What is State Level Coordination and Monitoring Committee for monitoring Stubble Burning at State Level?
+At the State Level, a Committee under Chief Secretary and comprising of the Administrative Secretaries of the following Departments will coordinate, monitor and decide various issues towards effective implementation of the ban on burning paddy straw:
+Department of Agriculture
+Department of Science, Technology and Environment
+Department of Cooperation
+Department of Rural Development
+Department of Power
+Department of Water Resources
+Department of Defence Services Welfare
+Department of Information and Public Relations
+Department of New and Renewable Energy
+The State Government will further depute senior Administrative Secretaries in various districts to monitor the implementation of the ban. They will be assisted by Senior Officers from PPCB, PSPCL and Agriculture.
+Chief Secretary will also review the progress with the Deputy Commissioners
+
+What is District Level Coordination and Monitoring Committee for monitoring of Stubble Burning at District level?
+District Administration will have the key role in effective implementation of the plan. All the Departments at the district level will have to extend their support.
+There will be a District Level Monitoring Committee, which shall consist of the following officers:
+Deputy Commissioner                    -           Chairperson
+Senior Superintendent of Police     -           Member
+Additional Deputy Commissioner   -           Member
+EE / AEE, PPCB                             -           Member
+District Revenue Officer                  -           Member
+Chief Agriculture Officer                  -           Convener
+The District Level Committee will meet on weekly basis or more frequently and review the IEC activities, enforcement activities and other facilitation activities and take necessary action.
+
+What is Sub-Division Level Coordination and Monitoring for monitoring of Stubble Burning at Sub-Divisional level?
+The Sub-Division Level Monitoring Committee shall consist of the following officers:
+Sub-Divisional Magistrate            -           Chairperson
+Deputy Superintendent of Police -           Member
+BDPO                                           -           Member
+Agriculture Officer                         -           Convener
+The sub-division level committee will meet daily/ alternate day and review the progress of various activities and take necessary action.
+
+What is Cluster Officer for monitoring of Stubble Burning incidents?
+Cluster officer will fill and duly sign the data regarding challan no & date, challan amount and challan photo in the mobile base app.
+The Cluster officers will be drawn from the block / sub-division level officers of various departments such as Agriculture, Revenue, Cooperation, Rural Development, PSPCL, Defense Welfare etc.
+Cluster Officer shall coordinate with Village Nodal Officer for various activities to control burning of stubble by the farmers.
+
+
+What is Paddy Straw Pelletization Plant?
+Paddy Straw Pelletization Plant manufactures pellets made up of paddy straw.
+
+What is the use of Paddy Straw Pellets?
+Paddy Straw Pellets are used as fuel.
+
+Who are the potential consumers of Paddy Straw Pellets?
+Brick Kilns, Thermal Power Plants and Industrial Boilers are potential consumers of Paddy Straw Pellets.
+
+How much shed area is required for one TPH capacity Plant?
+3000 – 4000 ft2
+
+How much electricity load is required for one TPH plant?
+200 – 250 KW
+
+What is the annual production capacity of one TPH plant with 2 shift operations?
+5000 TPA
+
+What is the difference between Torrefied and Non-Torrefied Paddy Straw Pelletization Plants?
+The main difference is presence of Torrefied reactor in Torrefied Paddy Straw Pelletization plant by which physical properties of paddy straw pellets changed resulting in high caloric value and ash content.
+
+What is the calorific value of Torrefied and Non-Torrefied Paddy Straw Pellets?
+Calorific Value of Non Torrefied Paddy Straw Pellets is 3200 Kcal/kg whereas of Torrefied Pellets is 4200 Kcal/kg.
+
+Is there any Govt Scheme for promoting Paddy Straw Pelletization Plants?
+Yes Central Pollution Control Board has launched one time financial support for such kind of plants.
+
+What is the structure of scheme?
+One time financial support to the tune of 40% on plant and machinery is given by CPCB.
+
+What is the requirement for availing one time financial support?
+Consent to establish (NOC) of Punjab Pollution Control Board is the prime requirement alongwith some other documents.
+
+How can I get detailed information on one time financial support?
+Er. Sukhdev Singh, Environmental Engineer (Mob No. 9501005783) is Nodal Officer who can assist for providing detailed information for availing one time financial support.
+
+Is Govt. putting any efforts for the sale of paddy straw pellets?
+Yes Govt has issued notification for 20% mandatory partial replacement of coal with paddy straw pellets in brick kilns.
+
+
+Any other ?
+https://ppcb.punjab.gov.in/en/form/query-form
